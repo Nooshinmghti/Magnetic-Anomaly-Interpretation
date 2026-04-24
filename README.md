@@ -30,4 +30,4 @@ This project is under development. The MATLAB workflow is being documented first
 ## Author
 
 Nooshin Moghtaderi  
-Geospatial Data Scientist | Applied Geophysics | Machine Learning & GIS
+ Data Scientist | Applied Geophysics | Machine Learning & GIS
